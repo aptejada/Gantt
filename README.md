@@ -1,1 +1,1 @@
-# ghant-charts
+# Gantt
