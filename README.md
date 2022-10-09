@@ -29,5 +29,6 @@ section Scripting
 Compile 16S and 18S Scripts:des1,2022-10-15,2d
 Practice SQL:active, des2, 2022-10-15,2d
 Practice more:active, des3, 2022-10-15
-And more....:active, des4,2022-10-22
+And more....:active, des4,2022-10-30
+Build new project: des4, 2022-10-30
 ```
