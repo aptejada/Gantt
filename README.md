@@ -9,6 +9,7 @@ mermaid-js-github.io/mermaid/#/gantt
 gantt
 title Ikigai
 dateFormat YYYY-MM-DD
+
 section My PhD Roadmap
 Process Application:active, des2, 2022-10-11, 1w
 Review Applications:    des2,2022-10-11,1w
