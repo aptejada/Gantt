@@ -11,7 +11,7 @@ title Ikigai
 dateFormat YYYY-MM-DD
 section My PhD Roadmap
 Process Application:active, des2, 2022-10-11, 1w
-Review Applications:    des3,after des2,1w
+Review Applications:    des2,2022-10-11,1w
 Send Application1: des4, 2022-10-10
 Send Application2:des4, 2022-10-18
 
