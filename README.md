@@ -1,6 +1,6 @@
 # Gantt
 
-<Code
+<h3 align="left">Code:</h3>
 
 gannt
 title PhD Roadmap
