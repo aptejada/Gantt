@@ -20,6 +20,10 @@ Prepare exam1:crit, active, 2022-10-10, 4d
 Return assignments:crit, active, 2022-10-10, 4d
 Consultation:crit, active, 2022-10-10, 4d
 Synchronous meeting: crit, 2022-10-12, 2d
+Exam MB110: crit, des1, 2022-10-17, 1d
+Exam MB110: crit, des1, 2022-10-20, 1d
+Exam MB111: crit, des2, 2022-10-18, 1d
+Exam MB111: crit, des2, 2022-10-21, 1d
 
 section Thesis
 Generate flowcharts: 2022-10-08, 2d
