@@ -19,7 +19,7 @@ section Teaching
 Prepare exam1:crit, active, 2022-10-10, 4d
 Return assignments:crit, active, 2022-10-10, 4d
 Consultation:crit, active, 2022-10-10, 4d
-Lectures: crit, 2022-10-12, 2d
+Synchronous meeting: crit, 2022-10-12, 2d
 
 section Thesis
 Generate flowcharts: 2022-10-08, 2d
