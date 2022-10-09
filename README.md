@@ -3,7 +3,7 @@
 <h3 align="left">Code:</h3>
 
 ```mermaid
-gannt
+gantt
 title PhD Roadmap
 dateFormat YYYY-MM-DD
 section A section
