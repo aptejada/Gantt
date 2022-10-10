@@ -32,7 +32,7 @@ section Thesis
 Generate flowcharts: 2022-10-08, 2d
 Revise discussion: 2022-10-22,2d
 
-section Scripting
+section Scripting/Coding
 Compile 16S and 18S Scripts:des1,2022-10-15,2d
 Practice SQL:active, des2, 2022-10-15,2d
 Practice more:active, des3, 2022-10-15
